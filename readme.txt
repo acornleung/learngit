@@ -1,2 +1,2 @@
-git is version control systeam
+git is distributed version control systeam
 dit is free software
