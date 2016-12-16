@@ -1,2 +1,2 @@
 git is distributed version control systeam
-dit is free software distributed under the GPL
+git is free software distributed under the GPL
